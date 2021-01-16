@@ -1,0 +1,4 @@
+Black:17000
+Smith:21000
+Potter:23000	
+Green:15000
